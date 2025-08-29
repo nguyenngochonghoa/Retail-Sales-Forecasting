@@ -1,0 +1,21 @@
+Variable 1,Variable 2,Correlation
+Weekly_Sales,Temperature,-0.173819049
+Weekly_Sales,Fuel_Price,-0.05365454
+Weekly_Sales,CPI,0.02235655497059497
+Weekly_Sales,Unemployment,0.00011800423735607145
+Temperature,Weekly_Sales,-0.173819049
+Temperature,Fuel_Price,0.16900866737400036
+Temperature,CPI,-0.161360765
+Temperature,Unemployment,0.04823588276928439
+Fuel_Price,Weekly_Sales,-0.05365454
+Fuel_Price,Temperature,0.16900866737400036
+Fuel_Price,CPI,0.44618966165414553
+Fuel_Price,Unemployment,-0.688748297
+CPI,Weekly_Sales,0.02235655497059497
+CPI,Temperature,-0.161360765
+CPI,Fuel_Price,0.44618966165414553
+CPI,Unemployment,-0.626225686
+Unemployment,Weekly_Sales,0.00011800423735607145
+Unemployment,Temperature,0.04823588276928439
+Unemployment,Fuel_Price,-0.688748297
+Unemployment,CPI,-0.626225686
