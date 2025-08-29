@@ -8,10 +8,9 @@ In today’s competitive retail landscape, the ability to **accurately forecast 
 
 This project uses **Retail Data Analytics** from **45 retail stores** across multiple regions and departments.  
 The dataset includes:  
-- Historical sales data  
-- Promotional activities (Markdowns)  
-- Holiday events (Christmas, Super Bowl, Labor Day, etc.)  
-- Macroeconomic indicators (Fuel Price, Unemployment, CPI)  
+- Features dataset  
+- Sales dataset
+- Stores dataset 
 
 👉 **Goal**: Forecast future sales performance and provide actionable business strategies.  
 
